@@ -1,2 +1,2 @@
-# SVM-ImageClassifier
-## Fashion-Mnist
+# Support Vector Machine
+## Image Classifier on the Fashion MNIST dataset
